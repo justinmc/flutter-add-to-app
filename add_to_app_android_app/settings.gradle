@@ -10,7 +10,7 @@ dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         maven {
-          url '/usr/local/google/home/jmccandless/Projects/issues/add_to_app/add_to_app_flutter_module/build/host/outputs/repo'
+          url '/usr/local/google/home/jmccandless/Projects/flutter-add-to-app/add_to_app_flutter_module/build/host/outputs/repo'
         }
         maven {
           url "$storageUrl/download.flutter.io"
